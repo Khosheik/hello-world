@@ -1,2 +1,4 @@
 # hello-world
-Learning basics of github
+Hi reader! 
+
+Come to the dark side, we have cookies! 
